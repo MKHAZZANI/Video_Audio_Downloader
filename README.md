@@ -23,5 +23,17 @@ This is a Python-based application that allows you to download video or audio fr
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/Video-Audio-Downloader.git
+
+### Move the file
+
+cd Video-Audio-Downloader
+
+### Install Dependencies
+
+pip install -r requirements.txt
+
+### Run the Program
+
+```bash
+python index.py
