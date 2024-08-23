@@ -32,8 +32,8 @@ cd Video-Audio-Downloader
 ### Install Dependencies
 
 pip install -r requirements.txt
-
+```bash
 ### Run the Program
-
+````
 ```bash
 python index.py
