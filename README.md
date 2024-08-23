@@ -23,7 +23,7 @@ This is a Python-based application that allows you to download video or audio fr
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Video-Audio-Downloader.git
+git clone https://github.com/MKHAZZANI/Video_Audio_Downloader.git
 ````
 ### Move the file
 ```bash
