@@ -14,10 +14,10 @@ This is a Python-based application that allows you to download video or audio fr
 
 ## Usage
 
-  -Enter the video or audio URL.
-  -Choose the download path by clicking the "Browse" button.
-  -Click the "Download" button and select whether you want to download audio or video.
-  -The progress bar will show the download progress, along with the download speed and ETA.
+- Enter the video or audio URL.
+- Choose the download path by clicking the "Browse" button.
+- Click the "Download" button and select whether you want to download audio or video.
+- The progress bar will show the download progress, along with the download speed and ETA.
 
 ## Installation
 
