@@ -28,7 +28,6 @@ git clone https://github.com/yourusername/Video-Audio-Downloader.git
 
 ### Move the file
 
-```bash
 cd Video-Audio-Downloader
 
 ### Install Dependencies
