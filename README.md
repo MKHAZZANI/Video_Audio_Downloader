@@ -2,8 +2,8 @@
 
 This is a Python-based application that allows you to download video or audio from various platforms like YouTube. It uses `Flet` for the GUI and `yt-dlp` for downloading content.
 
-![Main Screen](E:\Python\DownloadVideo\DownloaderGUI\main.png)
-![Download Screen](E:\Python\DownloadVideo\DownloaderGUI\VidAud.png)
+![Main Screen](screenshots/main.png)
+![Download Screen](screenshots/VidAud.png)
 
 ## Features
 
